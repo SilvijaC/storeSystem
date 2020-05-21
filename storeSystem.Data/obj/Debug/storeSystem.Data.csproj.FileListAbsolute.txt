@@ -1,0 +1,11 @@
+C:\Users\Silvija\source\repos\storeSystem\storeSystem.Data\bin\Debug\storeSystem.Data.dll
+C:\Users\Silvija\source\repos\storeSystem\storeSystem.Data\bin\Debug\storeSystem.Data.pdb
+C:\Users\Silvija\source\repos\storeSystem\storeSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Silvija\source\repos\storeSystem\storeSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Silvija\source\repos\storeSystem\storeSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Silvija\source\repos\storeSystem\storeSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Silvija\source\repos\storeSystem\storeSystem.Data\obj\Debug\storeSystem.Data.csprojAssemblyReference.cache
+C:\Users\Silvija\source\repos\storeSystem\storeSystem.Data\obj\Debug\storeSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Silvija\source\repos\storeSystem\storeSystem.Data\obj\Debug\storeSystem.Data.csproj.CopyComplete
+C:\Users\Silvija\source\repos\storeSystem\storeSystem.Data\obj\Debug\storeSystem.Data.dll
+C:\Users\Silvija\source\repos\storeSystem\storeSystem.Data\obj\Debug\storeSystem.Data.pdb
